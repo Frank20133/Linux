@@ -8,7 +8,7 @@ How to create shortcut: take eclipse as an example
 ----
 - 1. Create and edit shortcut file: `sudo gedit /usr/share/applications/eclipse.desktop`
 - 2. Type the following content in the file
-```Java
+```C
 [Desktop Entry]
 Name=Eclipse
 Type=Application
